@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ryuichiroh.
 - 👀 I’m interested in Vim/Neovim, golang and Sushi🍣.
-- 📫 To reach me, Send me a message on [facebook](https://www.facebook.com/profile.php?id=100088840962721)
+- 📫 To reach me, send me a message on [facebook](https://www.facebook.com/profile.php?id=100088840962721)
 
 <!---
 ryuichiroh/ryuichiroh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
