@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ryuichiroh.
+- 👋 Hi, I’m @ryu-ichiroh.
 - 👀 I’m interested in Vim/Neovim, golang and Sushi🍣.
 - 📫 To reach me, send me a message on [facebook](https://www.facebook.com/profile.php?id=100088840962721)
 
